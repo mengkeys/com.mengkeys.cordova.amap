@@ -1,0 +1,2 @@
+# com.mengkeys.cordova.amap
+
